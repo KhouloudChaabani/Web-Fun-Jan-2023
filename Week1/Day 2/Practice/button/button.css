@@ -1,0 +1,39 @@
+.search{
+    height: 40px;
+    width: 150px;
+    font-size: 17px;
+    font-family:Monospace ;
+   
+
+    color: rgb(15, 175, 154);
+    background-color: rgb(249, 246, 246);
+    border-radius: 20px ;
+    border: solid rgb(15, 175, 154);
+    margin: 50px 50px 15px;
+}
+.plus{
+    border-radius: 50% ;
+    font-size: 23px;
+
+    color: azure;
+    background-color: rgb(15, 175, 154);
+    
+    border: solid rgb(15, 175, 154);
+    margin: 0px 50px;
+}
+
+.create{
+    height: 50px;
+    width: 200px;
+    font-size: 23px;
+
+    color: aliceblue;
+    background-color: rgb(53, 47, 240);
+    border-radius: 0px ;
+    border: solid rgb(14, 16, 16);
+    box-shadow:  5px 5px rgb(2, 2, 2);
+    margin : 15px 50px;
+}
+
+   
+
