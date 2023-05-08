@@ -1,0 +1,109 @@
+.container{
+    background-color: rgb(204, 200, 200);
+    width : 100%;
+    height: 100%;
+    padding: 20px;
+
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    color: rgb(131, 127, 127);
+    
+}
+.top-nav{
+    background-color: rgb(31, 171, 236);
+    
+    padding: 20px;
+    padding-right: 20px;
+}
+#poptocat{
+    width: 25%;
+    background-color: azure;
+   
+}
+#Jetpacktocat{
+    width: 25%;
+    background-color: azure;
+    margin-left: 50px;
+}
+#Gracehoppertocat{
+    width: 25%;
+    background-color: azure;
+    margin-left: 50px;
+}
+#images1{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.right-nav{
+    background-color: rgb(251, 247, 249);
+    padding: 20px 20px 20px 20px;
+        
+}
+#nyantocat{
+    width: 25%;
+    padding-left: 68px;
+}
+
+#scarletteocat{
+    width: 25%;
+    background-color: azure;
+    padding-left: 0px; 
+    padding-right: 70px;
+    
+    
+    
+}
+#images2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.bom-nav{
+    background-color: rgb(143, 53, 101);
+    padding: 20px 20px 20px 20px;
+    
+    
+}
+#Jenktocat{
+    width: 25%;
+    padding-right: 104px;
+    padding-left: 37px;
+    
+   
+}
+#Octdrey-Catburn{
+    width: 25%;
+    background-color: azure;
+    margin-right: 120px;
+    
+   
+   
+
+}
+#dodgetocat{
+    width: 25%;
+    background-color: azure;
+  
+    
+    
+    
+}
+#images3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+
+p{
+    text-align: center;
+    color: grey;
+}
+p>a{
+    color: aqua;
+}
